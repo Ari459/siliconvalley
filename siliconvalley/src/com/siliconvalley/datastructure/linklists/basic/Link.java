@@ -1,6 +1,6 @@
 package com.siliconvalley.datastructure.linklists.basic;
 
-class Link {
+public class Link {
 
 	public int data;
 	public Link next;

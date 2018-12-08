@@ -15,14 +15,14 @@ class LinkListManager {
 		LL.insertLast(-111);
 	
 		
-		LL.insetFirst(12);
+		LL.insertFirst(12);
 		
-		LL.insetFirst(34);
-		LL.insetFirst(-19);
+		LL.insertFirst(34);
+		LL.insertFirst(-19);
 		
 		LL.insertLast(67);
 		LL.insertLast(99);
-		LL.insetFirst(-99);
+		LL.insertFirst(-99);
 		
 		LL.displayLinkList();
 		
@@ -64,7 +64,7 @@ class LinkListManager {
 		
 		LL.insertLast(12);
 		LL.insertLast(9999);
-		LL.insetFirst(0);
+		LL.insertFirst(0);
 		
 		LL.displayLinkList();
 		

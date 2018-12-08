@@ -1,11 +1,11 @@
 package com.siliconvalley.datastructure.linklists.basic;
 
-class LinkList {
+public class LinkList {
 
 	private Link first;
 	private Link last;
 	
-	public void insetFirst(int data) {
+	public void insertFirst(int data) {
 		
 		Link newNode  = new Link(data);
 		
